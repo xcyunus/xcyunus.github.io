@@ -1,0 +1,19 @@
+body {
+
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: darkgrey;
+}
+#projek {
+  background-color: darkgrey;
+}
+section  {
+  padding-top: 5rem;
+  background-color: #fff;
+}
+#about {
+  background-color: darkseagreen;
+  text-center;
+}
